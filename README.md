@@ -1,0 +1,2 @@
+# Intro-Component-with-Sign-up-Form
+This project is a clone project that came from Front End Mentor. One of the biggest things I've learned while doing this project is utilizing Javascript to do form validation. I didn't realize that putting "required" in a html input would prevent the Javascript validation to work. Another thing I've learned is changing the color of the email placeholder. Overall this was a very fun project to do that taught some great coding concepts!
