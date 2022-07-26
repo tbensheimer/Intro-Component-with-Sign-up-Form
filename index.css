@@ -111,10 +111,9 @@ label {
     background-repeat: no-repeat;
     background-position: 92% 50%;
     display: flex;
-    padding-right: px;
 }
 
-#error {
+#error1, #error2, #error3, #error4 {
 color: hsl(0, 100%, 74%);
 font-size: 9px;
 font-weight: 600;
